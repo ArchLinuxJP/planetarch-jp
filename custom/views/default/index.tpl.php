@@ -112,6 +112,7 @@ header('Content-type: text/html; charset=UTF-8');
 					 <li><a href="https://planet.archlinux.org/">本家</a></li>
 					 <li><a href="http://planeta.archlinux-br.org/">ブラジル</a></li>
 					 <li><a href="http://planet.archlinux.cl/">チリ</a></li>
+					 <li><a href="http://planet.archlinuxcn.org/">中国</a></li>
 					 <li><a href="http://planet.archlinux.fr/">フランス</a></li>
 					 <li><a href="http://planet.archlinux.de/">ドイツ</a></li>
 					 <li><a href="http://www.archlinux.it/planet/">イタリア</a></li>
