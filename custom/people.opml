@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <opml version="1.1">
 <head>
-<title>Untitled</title>
-<dateCreated>2008-12-14T15:51:52+01:00</dateCreated>
-<dateModified>2008-12-14T15:51:52+01:00</dateModified>
+<title>Planet Arch Linux JP</title>
+<dateCreated>2015-12-11T12:16:08+09:00</dateCreated>
+<dateModified>2015-12-11T12:16:08+09:00</dateModified>
 </head>
 <body>
+<outline text="公式ニュース" htmlUrl="https://www.archlinuxjp.org/news/" xmlUrl="https://www.archlinuxjp.org/feeds/news/"/>
+<outline text="Kusakata's Lair" htmlUrl="https://kusakata.com/" xmlUrl="https://kusakata.com/rss/"/>
+<outline text="MBA-HACK2" htmlUrl="https://syui.github.io/" xmlUrl="https://syui.github.io/atom.xml"/>
 </body>
 </opml>
