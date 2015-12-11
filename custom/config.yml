@@ -1,0 +1,10 @@
+---
+url: https://planet.archlinuxjp.org/
+name: Planet Arch Linux JP
+items: 10
+shuffle: 0
+refresh: 240
+cache: 10
+nohtml: 0
+postmaxlength: 0
+cachedir: ./cache
