@@ -11,10 +11,10 @@ header('Content-type: text/html; charset=UTF-8');
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="//www.archlinuxjp.org/css/archweb.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="https://www.archlinuxjp.org/css/mobile.css" media="only screen and (max-width:750px)" />
-	<link rel="icon" type="image/x-icon" href="//www.archlinuxjp.org/img/favicon.ico" />
-	<link rel="shortcut icon" type="image/x-icon" href="//www.archlinuxjp.org/img/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="//www.archlinuxjp.org/stylesheets/archweb.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="https://www.archlinuxjp.org/stylesheets/mobile.css" media="only screen and (max-width:790px)" />
+	<link rel="icon" type="image/x-icon" href="//www.archlinuxjp.org/images/favicon.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="//www.archlinuxjp.org/images/favicon.ico" />
 	<style type="text/css">
 		<!--
 		img {
@@ -46,12 +46,13 @@ header('Content-type: text/html; charset=UTF-8');
     </script>
 	<div id="archnavbar" class="anb-home">
 		<div id="archnavbarlogo"><h1><a href="https://www.archlinuxjp.org/" title="メインページに戻る">Arch Linux</a></h1></div>
+		<div id="archnavbaricon"><img src="https://www.archlinuxjp.org/images/menu.png"></div>
 		<div id="archnavbarmenu">
             <ul id="archnavbarlist">
                 <li id="anb-home"><a href="https://www.archlinuxjp.org/" title="Arch ニュース、パッケージ、プロジェクトなど">ホーム</a></li>
                 <li id="anb-packages"><a href="https://www.archlinuxjp.org/packages/" title="Arch パッケージデータベース">パッケージ</a></li>
                 <li id="anb-forums"><a href="https://bbs.archlinuxjp.org/" title="コミュニティフォーラム">フォーラム</a></li>
-                <li id="anb-wiki"><a href="https://wiki.archlinuxjp.org/" title="コミュニティドキュメント">Wiki</a></li>
+                <li id="anb-wiki"><a href="https://wiki.archlinuxjp.org/" title="コミュニティドキュメント">ArchWiki</a></li>
                 <li id="anb-bugs"><a href="http://blog.archlinuxjp.org/" title="活動報告">ブログ</a></li>
                 <li id="anb-aur"><a href="https://archlinuxjp-slack.herokuapp.com/" title="チャット">Slack</a></li>
                 <li id="anb-download"><a href="https://www.archlinuxjp.org/download/" title="Arch Linux を入手">ダウンロード</a></li>
@@ -130,6 +131,6 @@ header('Content-type: text/html; charset=UTF-8');
 			<p>このページに記載されたブログ記事の著作権はそれぞれの記事の著者に帰属します。</p>
 		</div>
 	</div>
-<script type="text/javascript" src="https://www.archlinuxjp.org/js/archweb.js"></script>
+<script type="text/javascript" src="https://www.archlinuxjp.org/javascripts/archweb.js"></script>
 </body>
 </html>
