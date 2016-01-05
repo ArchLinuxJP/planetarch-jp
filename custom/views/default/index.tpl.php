@@ -46,7 +46,7 @@ header('Content-type: text/html; charset=UTF-8');
     </script>
 	<div id="archnavbar" class="anb-home">
 		<div id="archnavbarlogo"><h1><a href="https://www.archlinuxjp.org/" title="メインページに戻る">Arch Linux</a></h1></div>
-		<div id="archnavbaricon"><img src="https://www.archlinuxjp.org/images/menu.png"></div>
+		<div id="archnavbaricon"><i title="メニューを開く"></i></div>
 		<div id="archnavbarmenu">
             <ul id="archnavbarlist">
                 <li id="anb-home"><a href="https://www.archlinuxjp.org/" title="Arch ニュース、パッケージ、プロジェクトなど">ホーム</a></li>
